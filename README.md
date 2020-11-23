@@ -1,10 +1,14 @@
 
-- <img src="https://raw.githubusercontent.com/jadilson12/jadilson12/master/assets/hi.gif" width="25"> Hi! I'm **Vinicius Feitosa da Silva (@vinnyfs89)**
+**<img src="https://raw.githubusercontent.com/jadilson12/jadilson12/master/assets/hi.gif" width="25"> Hi! I'm Vinicius Feitosa da Silva (@vinnyfs89)**
+
+### About me:
+
 - 💼 I am currently working at [Coopersytem](https://www.coopersystem.com.br) acting as Solutions Architect / Full Stack Developer
+- 👨‍💻 I work with technology since 2008
 - 🎓 Graduated in Information Systems with specialization in web systems development
 - 🇧🇷 Live in Brazil
 
-### 👨‍💼 Meet me:
+### Meet me:
 
 
 [![Github](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/vinnyfs89) 
@@ -20,7 +24,7 @@
 [![RSS](http://img.shields.io/badge/-RSS-FFA500?style=for-the-badge&logo=RSS&logoColor=white)](https://github.com/vinnyfs89.atom)
 
 
-### 👨‍💻 Technologies 
+### Technologies 
 
 
 <img height="25" src="https://img.shields.io/badge/postgresql-336791.svg?&style=for-the-badge&logo=postgresql&logoColor=white"></img>
@@ -80,7 +84,8 @@
 <img height="25" src="https://img.shields.io/badge/NGinx-269539.svg?&style=for-the-badge&logo=NGinx&logoColor=white"></img> 
 <img height="25" src="https://img.shields.io/badge/Apache-D22128.svg?&style=for-the-badge&logo=Apache&logoColor=white"></img>
 <img height="25" src="https://img.shields.io/badge/Ubuntu-E95420.svg?&style=for-the-badge&logo=Ubuntu&logoColor=white"></img>
-<img height="25" src="https://img.shields.io/badge/Gnome-4A86CF.svg?&style=for-the-badge&logo=Gnome&logoColor=white"></img>
+<img height="25" src="https://img.shields.io/badge/Gnome-purple.svg?&style=for-the-badge&logo=Gnome&logoColor=white"></img>
+<img height="25" src="https://img.shields.io/badge/-Kde-4A86CF.svg?&style=for-the-badge&logo=Kde&logoColor=white"></img>
 <img height="25" src="https://img.shields.io/badge/RaspberryPi-C51A4A.svg?&style=for-the-badge&logo=RaspberryPi&logoColor=white"></img>
 <img height="25" src="https://img.shields.io/badge/Arduino-00979D.svg?&style=for-the-badge&logo=Arduino&logoColor=white"></img>
 
