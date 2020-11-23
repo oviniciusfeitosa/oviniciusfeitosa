@@ -4,7 +4,9 @@
 - 🎓 Graduated in Information Systems with specialization in web systems development
 - 📫 How to reach me: viniciusfesil@gmail.com
 - 🇧🇷 Live in Brazil
-- 👨‍💼 Meet me 💬
+- 👨‍💼 Meet me
+
+---
 
 [![Github](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/vinnyfs89) 
 [![Gitlab](http://img.shields.io/badge/-Gitlab-388e3c?style=for-the-badge&logo=Gitlab&logoColor=white)](https://gitlab.com/vinnyfs89) 
@@ -18,9 +20,11 @@
 [![Telegram](http://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/vinnyfs89)
 [![RSS](http://img.shields.io/badge/-RSS-FFA500?style=for-the-badge&logo=RSS&logoColor=white)](https://github.com/vinnyfs89.atom)
 
+---
 
 - 👨‍💻 Technologies I’ve had contact with
 
+---
 
 <img height="25" src="https://img.shields.io/badge/postgresql-336791.svg?&style=for-the-badge&logo=postgresql&logoColor=white"></img>
 <img height="25" src="https://img.shields.io/badge/sqlserver-CC2927.svg?&style=for-the-badge&logo=microsoft-sql-server&logoColor=white"></img>
@@ -80,8 +84,6 @@
 <img height="25" src="https://img.shields.io/badge/Gnome-4A86CF.svg?&style=for-the-badge&logo=Gnome&logoColor=white"></img>
 <img height="25" src="https://img.shields.io/badge/RaspberryPi-C51A4A.svg?&style=for-the-badge&logo=RaspberryPi&logoColor=white"></img>
 <img height="25" src="https://img.shields.io/badge/Arduino-00979D.svg?&style=for-the-badge&logo=Arduino&logoColor=white"></img>
-
-
 
 ---
 
