@@ -3,7 +3,7 @@
 
 ### About me:
 
-- 💼 I am currently working at [Coopersytem](https://www.coopersystem.com.br) acting as Solutions Architect / Full Stack Developer
+- 💼 I am currently working at [Coopersytem](https://www.coopersystem.com.br) acting as Solutions Architect, Full Stack Developer and Devops enthusiast
 - 👨‍💻 I work with technology since 2008
 - 🎓 Graduated in Information Systems with specialization in web systems development
 - 🇧🇷 Live in Brazil
@@ -26,15 +26,6 @@
 
 ### Technologies 
 
-
-<img height="25" src="https://img.shields.io/badge/postgresql-336791.svg?&style=for-the-badge&logo=postgresql&logoColor=white"></img>
-<img height="25" src="https://img.shields.io/badge/sqlserver-CC2927.svg?&style=for-the-badge&logo=microsoft-sql-server&logoColor=white"></img>
-<img height="25" src="https://img.shields.io/badge/mysql-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white"></img>
-<img height="25" src="https://img.shields.io/badge/MariaDB-003545.svg?&style=for-the-badge&logo=MariaDB&logoColor=white"></img>
-<img height="25" src="https://img.shields.io/badge/MongoDB-47A248.svg?&style=for-the-badge&logo=MongoDB&logoColor=white"></img>
-<img height="25" src="https://img.shields.io/badge/Oracle-F80000.svg?&style=for-the-badge&logo=Oracle&logoColor=white"></img>
-
-
 <img height="25" src="https://img.shields.io/badge/docker-33adff.svg?&style=for-the-badge&logo=docker&logoColor=white"></img>
 <img height="25" src="https://img.shields.io/badge/rancher-0075A8.svg?&style=for-the-badge&logo=rancher&logoColor=white"></img>
 <img height="25" src="https://img.shields.io/badge/kubernetes-326CE5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white"></img>
@@ -48,8 +39,6 @@
 <img height="25" src="https://img.shields.io/badge/Vercel-181717.svg?style=for-the-badge&logo=Vercel&logoColor=white"></img>
 <img height="25" src="https://img.shields.io/badge/Heroku-430098.svg?&style=for-the-badge&logo=Heroku&logoColor=white"></img>
 <img height="25" src="https://img.shields.io/badge/-Travis-purple.svg?&style=for-the-badge&logo=Travis&logoColor=white"></img>
-
-
 <img height="25" src="https://img.shields.io/badge/ReactiveX-B7178C.svg?&style=for-the-badge&logo=ReactiveX&logoColor=white"></img>
 <img height="25" src="https://img.shields.io/badge/html5-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"></img>
 <img height="25" src="https://img.shields.io/badge/css3-1572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"></img> 
@@ -76,13 +65,17 @@
 <img height="25" src="https://img.shields.io/badge/Composer-885630.svg?&style=for-the-badge&logo=composer&logoColor=white"> </img>
 <img height="25" src="https://img.shields.io/badge/.NET-5C2D91.svg?&style=for-the-badge&logo=.NET&logoColor=white"></img>
 <img height="25" src="https://img.shields.io/badge/-Java-blue?style=for-the-badge&logo=Java&logoColor=red"></img>
-
-
 <img height="25" src="https://img.shields.io/badge/GraphQL-E10098.svg?&style=for-the-badge&logo=GraphQL&logoColor=white"></img>
 <img height="25" src="https://img.shields.io/badge/Swagger-85EA2D.svg?&style=for-the-badge&logo=Swagger&logoColor=black"></img>
 <img height="25" src="https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white"></img>
 <img height="25" src="https://img.shields.io/badge/NGinx-269539.svg?&style=for-the-badge&logo=NGinx&logoColor=white"></img> 
 <img height="25" src="https://img.shields.io/badge/Apache-D22128.svg?&style=for-the-badge&logo=Apache&logoColor=white"></img>
+<img height="25" src="https://img.shields.io/badge/postgresql-336791.svg?&style=for-the-badge&logo=postgresql&logoColor=white"></img>
+<img height="25" src="https://img.shields.io/badge/sqlserver-CC2927.svg?&style=for-the-badge&logo=microsoft-sql-server&logoColor=white"></img>
+<img height="25" src="https://img.shields.io/badge/mysql-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white"></img>
+<img height="25" src="https://img.shields.io/badge/MariaDB-003545.svg?&style=for-the-badge&logo=MariaDB&logoColor=white"></img>
+<img height="25" src="https://img.shields.io/badge/MongoDB-47A248.svg?&style=for-the-badge&logo=MongoDB&logoColor=white"></img>
+<img height="25" src="https://img.shields.io/badge/Oracle-F80000.svg?&style=for-the-badge&logo=Oracle&logoColor=white"></img>
 <img height="25" src="https://img.shields.io/badge/Ubuntu-E95420.svg?&style=for-the-badge&logo=Ubuntu&logoColor=white"></img>
 <img height="25" src="https://img.shields.io/badge/Gnome-purple.svg?&style=for-the-badge&logo=Gnome&logoColor=white"></img>
 <img height="25" src="https://img.shields.io/badge/-Kde-4A86CF.svg?&style=for-the-badge&logo=Kde&logoColor=white"></img>
