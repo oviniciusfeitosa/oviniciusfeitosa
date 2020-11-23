@@ -1,8 +1,7 @@
+
 - <img src="https://raw.githubusercontent.com/jadilson12/jadilson12/master/assets/hi.gif" width="25"> Hi! I'm **Vinicius Feitosa da Silva (@vinnyfs89)**
-- 🚀 Solutions Architect / Full Stack Developer
-- 💼 I’m currently working on [Coopersytem](https://www.coopersystem.com.br)
+- 💼 I am currently working at [Coopersytem](https://www.coopersystem.com.br) acting as Solutions Architect / Full Stack Developer
 - 🎓 Graduated in Information Systems with specialization in web systems development
-- 📫 How to reach me: viniciusfesil@gmail.com
 - 🇧🇷 Live in Brazil
 - 👨‍💼 Meet me:
 
