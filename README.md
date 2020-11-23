@@ -3,7 +3,8 @@
 - 💼 I am currently working at [Coopersytem](https://www.coopersystem.com.br) acting as Solutions Architect / Full Stack Developer
 - 🎓 Graduated in Information Systems with specialization in web systems development
 - 🇧🇷 Live in Brazil
-- 👨‍💼 Meet me:
+
+### 👨‍💼 Meet me:
 
 
 [![Github](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/vinnyfs89) 
@@ -19,7 +20,7 @@
 [![RSS](http://img.shields.io/badge/-RSS-FFA500?style=for-the-badge&logo=RSS&logoColor=white)](https://github.com/vinnyfs89.atom)
 
 
-- 👨‍💻 Technologies I’ve had contact with:
+### 👨‍💻 Technologies 
 
 
 <img height="25" src="https://img.shields.io/badge/postgresql-336791.svg?&style=for-the-badge&logo=postgresql&logoColor=white"></img>
@@ -41,6 +42,8 @@
 <img height="25" src="https://img.shields.io/badge/Github-181717.svg?style=for-the-badge&logo=Github&logoColor=white"></img>
 <img height="25" src="https://img.shields.io/badge/-Bitbucket-006db3.svg?style=for-the-badge&logo=bitbucket&logoColor=white"></img>
 <img height="25" src="https://img.shields.io/badge/Vercel-181717.svg?style=for-the-badge&logo=Vercel&logoColor=white"></img>
+<img height="25" src="https://img.shields.io/badge/Heroku-430098.svg?&style=for-the-badge&logo=Heroku&logoColor=white"></img>
+<img height="25" src="https://img.shields.io/badge/-Travis-purple.svg?&style=for-the-badge&logo=Travis&logoColor=white"></img>
 
 
 <img height="25" src="https://img.shields.io/badge/ReactiveX-B7178C.svg?&style=for-the-badge&logo=ReactiveX&logoColor=white"></img>
@@ -73,7 +76,6 @@
 
 <img height="25" src="https://img.shields.io/badge/GraphQL-E10098.svg?&style=for-the-badge&logo=GraphQL&logoColor=white"></img>
 <img height="25" src="https://img.shields.io/badge/Swagger-85EA2D.svg?&style=for-the-badge&logo=Swagger&logoColor=black"></img>
-<img height="25" src="https://img.shields.io/badge/Heroku-430098.svg?&style=for-the-badge&logo=Heroku&logoColor=white"></img>
 <img height="25" src="https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white"></img>
 <img height="25" src="https://img.shields.io/badge/NGinx-269539.svg?&style=for-the-badge&logo=NGinx&logoColor=white"></img> 
 <img height="25" src="https://img.shields.io/badge/Apache-D22128.svg?&style=for-the-badge&logo=Apache&logoColor=white"></img>
