@@ -3,7 +3,7 @@
 
 ### About me:
 
-- 💼 I am currently working at [Coopersytem](https://www.coopersystem.com.br) acting as Solutions Architect, Full Stack Developer, and DevOps enthusiast
+- 💼 I am currently working acting as Solutions Architect, Full Stack Software Engineer and DevOps culture enthusiast
 - 👨‍💻 I work with technology since 2008
 - 🎓 Graduated in Information Systems with specialization in web systems development
 - 🇧🇷 Live in Brazil
