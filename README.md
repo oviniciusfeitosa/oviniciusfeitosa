@@ -91,12 +91,6 @@ Below are some of the technologies that already take away the opportunity to hav
   <a href="https://github.com/oviniciusfeitosa/github-readme-stats">
     <img
       align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=oviniciusfeitosa&layout=compact&theme=dracula"
-    />
-  </a>
-  <a href="https://github.com/oviniciusfeitosa/github-readme-stats">
-    <img
-      align="center"
       height="165"
       src="https://github-readme-stats.vercel.app/api?username=oviniciusfeitosa&show_icons=true&theme=dracula"
     />
